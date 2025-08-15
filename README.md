@@ -6,34 +6,34 @@ Live URL=> https://kuldeep464.github.io/solar_system/
 A visually appealing Solar System Animation built using HTML & CSS.
 This project demonstrates the movement of planets around the sun with smooth animations, perfect for practicing CSS animations and positioning.
 
-🚀 Features
+🚀 Features:-
 
-🌞 Central Sun with glowing effect
+    🌞 Central Sun with glowing effect
 
-🪐 Orbit animations for planets
+    🪐 Orbit animations for planets
 
-🌍 Rotating planets with realistic motion speed differences
+    🌍 Rotating planets with realistic motion speed differences
 
-📱 Responsive design that works on different screen sizes
+    📱 Responsive design that works on different screen sizes
 
-🎨 Pure HTML & CSS – no JavaScript used
+    🎨 Pure HTML & CSS – no JavaScript used
 
-🛠️ Technologies Used
+🛠️ Technologies Used:-
 
-HTML5 – Structure of the page
+    HTML5 – Structure of the page
 
-CSS3 – Animations, styling, and positioning
+    CSS3 – Animations, styling, and positioning
 
-💡 Learning Outcomes
+💡 Learning Outcomes:-
 
-Understanding CSS keyframes for animation
+    Understanding CSS keyframes for animation
 
-Working with absolute positioning & transforms
+    Working with absolute positioning & transforms
 
-Creating orbit-like motion effects
+    Creating orbit-like motion effects
 
-Enhancing visual appeal with box-shadow & gradients
+    Enhancing visual appeal with box-shadow & gradients
 
-📜 License
+📜 License:-
 
-This project is open-source and available under the MIT License.
+    This project is open-source and available under the MIT License.
