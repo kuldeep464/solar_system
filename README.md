@@ -1,5 +1,5 @@
 # solar_system
-Live URL=> https://kuldeep464.github.io/solar_system/
+Live URL=> https://solar-system-animation-self.vercel.app/
 
 🌌 Solar System Animation
 
